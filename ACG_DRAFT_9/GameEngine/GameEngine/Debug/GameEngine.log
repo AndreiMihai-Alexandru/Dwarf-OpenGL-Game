@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\imgui\glfw3.h(98,1): message : see previous definition of 'APIENTRY'
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(80,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(130,8): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(460,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(869,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(870,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(909,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(916,67): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(929,6): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(967,69): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(980,6): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(991,7): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(998,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(1187,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(1198,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(1221,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\GameEngine\main.cpp(1267,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameEngine.vcxproj -> F:\Desktop\Facultate Sem 1\Anul_3\ACG_PROJECT\ACG_DRAFT_8\GameEngine\Debug\GameEngine.exe
