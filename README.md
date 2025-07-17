@@ -1,2 +1,5 @@
-# Dwarf OpenGL Game
- Developed an engaging OpenGL game featuring immersive sounds, captivating animations, and a user-friendly GUI, within the constraints of OpenGL.
+A second-year project where I developed a game in OpenGL featuring a
+dwarf overcoming elemental trials to forge a legendary sword and defeat a
+dragon. Implemented game mechanics, UI quest system, and sound design.
+
+Technologies Used: OpenGL, C++
